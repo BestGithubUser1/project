@@ -1,2 +1,3 @@
 # project
 idk
+# EDUCATIONAL ONLY
